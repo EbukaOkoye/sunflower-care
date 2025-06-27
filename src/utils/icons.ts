@@ -20,10 +20,12 @@ import {
 } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
-import { IoTimeSharp } from "react-icons/io5";
+import { IoTimeSharp, IoCloseSharp } from "react-icons/io5";
 import { IoIosSend } from "react-icons/io";
 import { GiReceiveMoney } from "react-icons/gi";
 import { BsChatDotsFill } from "react-icons/bs";
+import { RiMenu2Fill } from "react-icons/ri";
+
 
 export const Phone = FaPhoneAlt;
 export const CircleArrow = FaArrowCircleRight;
@@ -47,6 +49,7 @@ export const CalendarCheck = FaCalendarCheck;
 export const Email = MdEmail;
 export const Send = IoIosSend;
 export const Time = IoTimeSharp;
+export const CloseX = IoCloseSharp;
 export const ReceiveMoney = GiReceiveMoney;
 export const Chat = BsChatDotsFill;
-
+export const Menu = RiMenu2Fill;
