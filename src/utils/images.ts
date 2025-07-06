@@ -23,7 +23,7 @@ import short_term from "@/assets/short_term.jpg";
 import asstistance from "@/assets/assistance.jpg";
 import faqs_img from "@/assets/faq.svg";
 import mail from "@/assets/mail.svg";
-import sunflower_logo from "@/assets/sunflower-care-logo-removebg.png";
+import sunflower_logo from "@/assets/new_sunflower_logo-removebg.png";
 import sunflower_logo_white from "@/assets/sunflower-logo-white.png";
 import home_hero from "@/assets/home_hero.jpg";
 import home_hero_two from "@/assets/home_hero_two.jpg";
@@ -37,6 +37,12 @@ import sil from "@/assets/sil.jpg";
 import sta from "@/assets/sta.jpg";
 import dls from "@/assets/dls.jpg";
 import adpa from "@/assets/adpa.jpg";
+import cp from "@/assets/cp.jpg";
+import sc from "@/assets/sc.jpg";
+import cn from "@/assets/cn.jpg";
+import ht from "@/assets/ht.jpg";
+import disability_one from "@/assets/disability_one.jpeg";
+import disability_two from "@/assets/disability_two.jpg";
 
 export const images = {
   holaLogo,
@@ -78,6 +84,12 @@ export const images = {
   sta,
   dls,
   adpa,
+  cp,
+  sc,
+  cn,
+  ht,
+  disability_one,
+  disability_two,
   faq_img: `https://www.holasupport.com.au/wp-content/uploads/2021/07/FAQs-top-Header-HS-img-01.jpg`,
   link_img: `https://www.holasupport.com.au/wp-content/uploads/2021/07/FAQs-top-Header-HS-img-01.jpg`,
 };
